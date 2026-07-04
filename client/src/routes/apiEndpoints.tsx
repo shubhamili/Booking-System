@@ -12,4 +12,3 @@ export const API_ENDPOINTS = {
     'getAllSeatTypes': `${Backend}/seatType/getAll`,
     'me': `${Backend}/auth/me`
 }
-

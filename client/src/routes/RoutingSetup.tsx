@@ -52,4 +52,4 @@ const RoutingSetup = () => {
     )
 }
 
-export default RoutingSetup
+export default RoutingSetup;

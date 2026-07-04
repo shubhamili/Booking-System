@@ -20,16 +20,8 @@ function App() {
         dispatch(authCheckComplete())
       }
     }
-
     authCheck()
-
-
   }, [])
-
-
-
-
-
 
   return (
     <>
